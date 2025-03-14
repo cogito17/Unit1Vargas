@@ -285,7 +285,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5002726843835855258}
   m_Layer: 0
-  m_Name: oh no, the brakes dont work, what ever will i do_
+  m_Name: oh no, the brakes dont work, what ever will i do
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
